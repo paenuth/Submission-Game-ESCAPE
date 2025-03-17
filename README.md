@@ -54,6 +54,12 @@ This is a Phaser 3 game that uses the React framework and Vite for bundling. It 
 
 [Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
 
+You will need to create a `.env` file in the root directory with the following variables:
+```
+VITE_CONTRACT_ADDRESS=your_contract_address
+
+```
+
 ## Available Commands
 
 | Command | Description |
